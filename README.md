@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> Live at - <a>[https://movie-recomms.herokuapp.com/]</a>
+<p align="center"> Live at - [Movie Recommender](https://movie-recomms.herokuapp.com/)
     <br> 
 </p>
 
@@ -91,19 +91,10 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Python]
+- [Jupyter Notebook]
+- [TMDB]- API
+- [Pickle]
 
-## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
