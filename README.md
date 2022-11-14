@@ -11,9 +11,9 @@
 
 ---
 
-- Live at Movie Recommender(https://movie-recomms.herokuapp.com/)
+<p align="center">Live at  - https://movie-recomms.herokuapp.com/
     <br> 
-
+</p>
 
 ## 📝 Table of Contents
 
@@ -91,10 +91,10 @@ Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Python]
-- [Jupyter Notebook]
-- [TMDB]- API
-- [Pickle]
-
+- [Python]()
+- [Jupyter Notebook]()
+- [TMDB]() - API
+- [Pickle]()
+- [Heroku]()
 
 
