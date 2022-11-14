@@ -11,9 +11,9 @@
 
 ---
 
-<p align="center"> Live at - [Movie Recommender](https://movie-recomms.herokuapp.com/)
+- Live at Movie Recommender(https://movie-recomms.herokuapp.com/)
     <br> 
-</p>
+
 
 ## 📝 Table of Contents
 
